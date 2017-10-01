@@ -1,7 +1,7 @@
-jQuery(document).ready(function($) {
+/*jQuery(document).ready(function($) {
 
 
-    /*======= Skillset *=======*/
+    /*======= Skillset *=======*//*
     
     
     $('.level-bar-inner').css('width', '0');
@@ -22,4 +22,4 @@ jQuery(document).ready(function($) {
    
     
 
-});
+});*/
